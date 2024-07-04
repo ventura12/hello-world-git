@@ -24,3 +24,7 @@ Underline 2
 - Lista desordenada
 - Lista desordenada
 - Lista desordenada
+
+- <a href="https://www.google.es">Esto es un link</a>
+- [Esto es un link en MarkDown](https://www.google.es)
+- [Esto es un link en MarkDown a index.html](index.html)
