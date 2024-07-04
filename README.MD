@@ -34,3 +34,8 @@ Underline 2
 ```Ejemplo
 Code Snippets
 ```
+# Tabla
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Ventura | Arroyo | Documento 1 |
+| Carlos | Sanchez | Documento 2 |
