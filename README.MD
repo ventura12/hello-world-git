@@ -16,3 +16,11 @@ Underline 2
 - Formato **bold o strong** de la primera forma.
 - Formato __bold o strong__ de la segunda forma.
 - Formato ~~tachado~~.
+
+1. Lista ordenada
+2. Lista ordenada
+3. Lista ordenada
+
+- Lista desordenada
+- Lista desordenada
+- Lista desordenada
