@@ -54,3 +54,11 @@ Esto es otro texto dividido por asteriscos.
 Esto es otro texto dividido por guiones bajos.
 
 ___
+
+Esto es el primer salto de linea.
+
+Esto es el segundo salto de linea.
+
+Esto es el tercer salto de linea.
+
+Esto es el cuarto salto de linea.
